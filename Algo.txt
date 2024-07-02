@@ -3,3 +3,5 @@
 3. Call the restaurant and order ToGo.
 4. Arrive at the restaurant and pay for the meal.
 5. Take pizza home and eat it!
+6. If you get home and the pizza order is incorrect, call the manager of the pizza establishment. 
+7. Request a replacement or a refund. Be polite, everyone makes mistakes.
